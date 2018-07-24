@@ -4,7 +4,7 @@
 }
 
 body {
-	width: 80%;
+	max-width: 1000px;
 	margin: 0 auto;
 	background-color: white;
 }
@@ -46,5 +46,3 @@ img {
 		margin: 15px;
 	}
 }
-
-/*-------------JavaScript Styles---------------*/
