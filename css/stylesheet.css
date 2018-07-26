@@ -11,6 +11,7 @@ body {
 
 div.search {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: space-around;
 }
 
@@ -34,6 +35,10 @@ img {
 	width: 175px;
 	height: 175px;
 	margin: 20px;
+}
+
+.hide {
+	display: none;
 }
 
 /*=============================================*/
