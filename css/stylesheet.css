@@ -36,18 +36,3 @@ img {
 	height: 175px;
 	margin: 20px;
 }
-
-.hide {
-	display: none;
-}
-
-/*=============================================*/
-/*--------------MEDIA QUERIES------------------*/
-@media (max-width: 1024px){
-	body{
-		width: 90%;
-	}
-	img {
-		margin: 15px;
-	}
-}
