@@ -9,3 +9,8 @@ The interactive gallery displays a grid of images and a search field that users 
 As users begin typing a keyword, the images are automatically filtered:
 
 ![Interative Gallery](https://drive.google.com/uc?id=1GvHlba4pslgriUwRFLl14fB4_4JX6quQ&sz=w600)
+
+## Development Stack
+* HTML
+* CSS
+* JavaScript
